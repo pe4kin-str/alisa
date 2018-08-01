@@ -1,4 +1,9 @@
 <context>
+  <sample>
+        <item value="Кто такая Алиса"/>
+        <item value="Что такое бот Мир SEO"/>
+    </sample>
+  
   <input pattern="* (привет*|здравствуй*) *">
     <!-- Здороваемся если знаем имя -->
     <output value="Привет $UserName!" if="full($UserName)"/>

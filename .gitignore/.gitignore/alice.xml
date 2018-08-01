@@ -2,7 +2,7 @@
 
     <sample>
         <item value="Кто такая Алиса"/>
-        <item value="Что такое бот"/>
+        <item value="Что такое бот Мир SEO"/>
     </sample>
 
     <input pattern="* (привет*|здравствуй*) *">
